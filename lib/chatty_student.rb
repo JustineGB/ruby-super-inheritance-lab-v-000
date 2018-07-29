@@ -9,7 +9,6 @@ class ChattyStudent < Student #child class
     10.times { puts "Pick me!"}
     super
   end
-end
 
 
 end
