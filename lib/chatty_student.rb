@@ -1,4 +1,4 @@
-#class ChattyStudent < Student #child class
+class ChattyStudent < Student #child class
 
   def hello
     super
